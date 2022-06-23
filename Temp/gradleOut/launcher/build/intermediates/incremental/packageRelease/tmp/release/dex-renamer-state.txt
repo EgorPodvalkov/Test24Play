@@ -1,0 +1,4 @@
+#Thu Jun 23 19:25:19 EEST 2022
+base.0=E\:\\Unity\\24Play - CubeKeeper\\Temp\\gradleOut\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
